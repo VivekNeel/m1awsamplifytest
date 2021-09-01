@@ -1,0 +1,13 @@
+{
+    "API-Endpoint": "https://f3mmkotw4zdypak3u7vgemfr5y.appsync-api.us-east-1.amazonaws.com/graphql",
+    "API-Key": "da2-yjthfsqurvgcvetymcefyrv5dy",
+    "IdentityPoolId": "us-east-1:9ab800ea-e179-4e6e-8baa-535677ce25a9",
+    "MediaStorage": "memorang-prod-media",
+    "UpdateMergeFlagApi": "https://6hqh0xr0r7.execute-api.us-east-1.amazonaws.com/Prod/updateMergeFlag",
+    "UserPoolClientId": "7rc07tjbgu5252phlb1ahoa5j5",
+    "UserPoolClientIdWeb": "pfqqt765iidergp4uss6lkm6o",
+    "UserPoolClients": "{\"mobileClientScope\":[\"aws.cognito.signin.user.admin\",\"openid\"],\"mobileClientCallbackURLs\":[\"https://memorang.com/authenticating?loggedIn=true\"],\"mobileClientLogoutURLs\":[\"https://memorang.com/landing/\"],\"webClientScope\":[\"aws.cognito.signin.user.admin\",\"openid\"],\"webClientCallbackURLs\":[\"https://memorang.com/settings/authenticating\"],\"webClientLogoutURLs\":[\"https://memorang.com/logout\"]}",
+    "UserPoolDomain": "memorangapp-us-east-1.auth.us-east-1.amazoncognito.com",
+    "UserPoolId": "us-east-1_ibGGSwhfs",
+    "Region": "us-east-1"
+  }
